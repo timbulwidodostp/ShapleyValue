@@ -3,6 +3,8 @@ Compute additive decomposition of estimation statistics by regressors or groups 
 
 Shorrocks-Shapely decomposition of many estimation statistics such as the R squared in the OLS regression Use shapleyvalue (ShapleyValue) With (In) R Software
 
+https://www.youtube.com/watch?v=pyBjkCdZ02M
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
